@@ -6,7 +6,7 @@
 
 -[EX01-02 BMI 計算](https://github.com/Otter333/nohehe/blob/main/EX01_02_BMI_%E8%A8%88%E7%AE%97.ipynb)
 
--[EX01-03 Rock-Paper-Scissors]
+-[EX01-03 Rock-Paper-Scissors](https://github.com/Otter333/nohehe/blob/main/EX01_03_Rock_Paper_Scissors.ipynb)
 
 -[EX01-04 終極密碼]
 
