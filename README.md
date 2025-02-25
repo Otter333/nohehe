@@ -12,6 +12,6 @@
 
 -[EX01-05 Caesar Cipher: Encode and decode](https://github.com/Otter333/nohehe/blob/main/EX01_05_Caesar_Cipher_Encode_and_decode.ipynb)
 
--[EX01-06 簡易購物車]
+-[EX01-06 簡易購物車](https://github.com/Otter333/nohehe/blob/main/EX01_06_%E7%B0%A1%E6%98%93%E8%B3%BC%E7%89%A9%E8%BB%8A.ipynb)
 
 -[EX01-07 美食資訊查詢]
