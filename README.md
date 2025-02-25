@@ -10,7 +10,7 @@
 
 -[EX01-04 終極密碼](https://github.com/Otter333/nohehe/blob/main/EX01_04_%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC.ipynb)
 
--[EX01-05 Caesar Cipher: Encode and decode]
+-[EX01-05 Caesar Cipher: Encode and decode](https://github.com/Otter333/nohehe/blob/main/EX01_05_Caesar_Cipher_Encode_and_decode.ipynb)
 
 -[EX01-06 簡易購物車]
 
