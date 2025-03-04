@@ -18,7 +18,7 @@
 # 02 web crawler
 -[EX02-01 My Chatbot](https://github.com/Otter333/nohehe/blob/main/EX02_01_My_Chatbot.ipynb)
 
--[EX02-02 高雄紅橘線捷運車站位置查詢])()
+-[EX02-02 高雄紅橘線捷運車站位置查詢]()
 
 -[EX02-03 Yahoo 新聞儲存 Google 試算表]()
 
