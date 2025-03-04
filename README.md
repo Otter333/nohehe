@@ -16,10 +16,16 @@
 
 -[EX01-07 美食資訊查詢](https://github.com/Otter333/nohehe/blob/main/EX01_07_%E7%BE%8E%E9%A3%9F%E8%B3%87%E8%A8%8A%E6%9F%A5%E8%A9%A2.ipynb)
 # 02 web crawler
--[EX02-01 My Chatbot]
--[EX02-02 高雄紅橘線捷運車站位置查詢]
--[EX02-03 Yahoo 新聞儲存 Google 試算表]
--[EX02-04 Download Pokemon Images]
--[EX02-05 PTT Gossiping]
--[EX02-06 開眼電影]
--[EX02-07 KKDay]
+-[EX02-01 My Chatbot](https://github.com/Otter333/nohehe/blob/main/EX02_01_My_Chatbot.ipynb)
+
+-[EX02-02 高雄紅橘線捷運車站位置查詢])()
+
+-[EX02-03 Yahoo 新聞儲存 Google 試算表]()
+
+-[EX02-04 Download Pokemon Images]()
+
+-[EX02-05 PTT Gossiping]()
+
+-[EX02-06 開眼電影]()
+
+-[EX02-07 KKDay]()
