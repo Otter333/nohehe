@@ -26,6 +26,6 @@
 
 -[EX02-05 PTT Gossiping](https://github.com/Otter333/nohehe/blob/main/EX02_05_PTT_Gossiping.ipynb)
 
--[EX02-06 開眼電影]()
+-[EX02-06 開眼電影](https://github.com/Otter333/nohehe/blob/main/EX02_06_%E9%96%8B%E7%9C%BC%E9%9B%BB%E5%BD%B1.ipynb)
 
 -[EX02-07 KKDay]()
