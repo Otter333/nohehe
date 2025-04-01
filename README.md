@@ -24,7 +24,7 @@
 
 -[EX02-04 Download Pokemon Images](https://github.com/Otter333/nohehe/blob/main/EX02_04_Download_Pokemon_Images.ipynb)
 
--[EX02-05 PTT Gossiping]()
+-[EX02-05 PTT Gossiping](https://github.com/Otter333/nohehe/blob/main/EX02_05_PTT_Gossiping.ipynb)
 
 -[EX02-06 開眼電影]()
 
