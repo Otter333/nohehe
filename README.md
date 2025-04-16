@@ -28,4 +28,4 @@
 
 -[EX02-06 開眼電影](https://github.com/Otter333/nohehe/blob/main/EX02_06_%E9%96%8B%E7%9C%BC%E9%9B%BB%E5%BD%B1.ipynb)
 
--[EX02-07 KKDay]()
+-[EX02-07 KKDay](https://github.com/Otter333/nohehe/blob/main/EX02_07_KKDay.ipynb)
