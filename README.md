@@ -31,5 +31,6 @@
 -[EX02-07 KKDay](https://github.com/Otter333/nohehe/blob/main/EX02_07_KKDay.ipynb)
 # 03 data analysis
 -[EX03-01 公司薪資概況Ⅰ](https://github.com/Otter333/nohehe/blob/main/EX03_01_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A0.ipynb)
--[EX03-01 公司薪資概況ⅠⅠ](https://github.com/Otter333/nohehe/blob/main/EX03_02_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A1.ipynb)
+
+-[EX03-02 公司薪資概況ⅠⅠ](https://github.com/Otter333/nohehe/blob/main/EX03_02_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A1.ipynb)
 
