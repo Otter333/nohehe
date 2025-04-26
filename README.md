@@ -36,4 +36,7 @@
 
 -[EX03-03 空氣品質指標(AQI)](https://github.com/Otter333/nohehe/blob/main/EX03_03_%E7%A9%BA%E6%B0%A3%E5%93%81%E8%B3%AA%E6%8C%87%E6%A8%99(AQI).ipynb)
 
+-[EX03-04 薪情平台)]
+(https://github.com/Otter333/nohehe/blob/main/EX03_04_%E8%96%AA%E6%83%85%E5%B9%B3%E5%8F%B0.ipynb)
+
 
