@@ -43,3 +43,6 @@
 
 -[EX03-06 出生人口數](https://github.com/Otter333/nohehe/blob/main/EX03_06_%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E6%95%B8.ipynb)
 
+-[EX03-07 Tips](https://github.com/Otter333/nohehe/blob/main/EX03_07_Tips.ipynb)
+
+
