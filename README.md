@@ -47,4 +47,6 @@
 # 05 web api
 -[EX05-01 Echo Bot](https://github.com/Otter333/nohehe/blob/main/EX05_01_Echo_Bot.ipynb)
 
+-[EX05-02 Ask Gemini](https://github.com/Otter333/nohehe/blob/main/EX05_02_Ask_Gemini.ipynb)
+
 
