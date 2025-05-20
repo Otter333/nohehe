@@ -49,4 +49,6 @@
 
 -[EX05-02 Ask Gemini](https://github.com/Otter333/nohehe/blob/main/EX05_02_Ask_Gemini.ipynb)
 
+-[EX05-03 Reply Multi-type Messages](https://github.com/Otter333/nohehe/blob/main/EX05_03_Reply_Multi_type_Messagesipynb.ipynb)
+
 
