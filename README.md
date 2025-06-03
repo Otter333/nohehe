@@ -50,6 +50,8 @@
 -[EX04-02 客戶基本資料編碼](https://github.com/Otter333/nohehe/blob/main/EX04_02_%E5%AE%A2%E6%88%B6%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99%E7%B7%A8%E7%A2%BC.ipynb)
 
 -[EX04-03 客戶分群](https://github.com/Otter333/nohehe/blob/main/EX04_03_%E5%AE%A2%E6%88%B6%E5%88%86%E7%BE%A4.ipynb)
+
+-[EX04-04 加州房價](https://github.com/Otter333/nohehe/blob/main/EX04_04_%E5%8A%A0%E5%B7%9E%E6%88%BF%E5%83%B9.ipynb)
 # 05 web api
 -[EX05-01 Echo Bot](https://github.com/Otter333/nohehe/blob/main/EX05_01_Echo_Bot.ipynb)
 
