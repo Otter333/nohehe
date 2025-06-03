@@ -44,6 +44,8 @@
 -[EX03-06 出生人口數](https://github.com/Otter333/nohehe/blob/main/EX03_06_%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E6%95%B8.ipynb)
 
 -[EX03-07 Tips](https://github.com/Otter333/nohehe/blob/main/EX03_07_Tips.ipynb)
+# 04 machine learning
+-[EX04-01 汽車車型數值資料轉換](https://github.com/Otter333/nohehe/blob/main/EX04_01_%E6%B1%BD%E8%BB%8A%E8%BB%8A%E5%9E%8B%E6%95%B8%E5%80%BC%E8%B3%87%E6%96%99%E8%BD%89%E6%8F%9B.ipynb)
 # 05 web api
 -[EX05-01 Echo Bot](https://github.com/Otter333/nohehe/blob/main/EX05_01_Echo_Bot.ipynb)
 
