@@ -51,4 +51,7 @@
 
 -[EX05-03 Reply Multi-type Messages](https://github.com/Otter333/nohehe/blob/main/EX05_03_Reply_Multi_type_Messagesipynb.ipynb)
 
+-[EX05-04 Reply Template Messages.ipynb](https://github.com/Otter333/nohehe/blob/main/EX05_04_Reply_Template_Messages.ipynb)
+
+
 
